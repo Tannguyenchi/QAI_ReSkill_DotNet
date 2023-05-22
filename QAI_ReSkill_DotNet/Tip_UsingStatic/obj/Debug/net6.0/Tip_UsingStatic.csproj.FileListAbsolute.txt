@@ -1,0 +1,15 @@
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\bin\Debug\net6.0\Tip_UsingStatic.exe
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\bin\Debug\net6.0\Tip_UsingStatic.deps.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\bin\Debug\net6.0\Tip_UsingStatic.runtimeconfig.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\bin\Debug\net6.0\Tip_UsingStatic.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\bin\Debug\net6.0\Tip_UsingStatic.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\Tip_UsingStatic.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\Tip_UsingStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\Tip_UsingStatic.AssemblyInfoInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\Tip_UsingStatic.AssemblyInfo.cs
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\Tip_UsingStatic.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\Tip_UsingStatic.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\refint\Tip_UsingStatic.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\Tip_UsingStatic.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\Tip_UsingStatic.genruntimeconfig.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\Tip_UsingStatic\obj\Debug\net6.0\ref\Tip_UsingStatic.dll

@@ -1,0 +1,15 @@
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\bin\Debug\net6.0\P06_SwitchCase.exe
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\bin\Debug\net6.0\P06_SwitchCase.deps.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\bin\Debug\net6.0\P06_SwitchCase.runtimeconfig.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\bin\Debug\net6.0\P06_SwitchCase.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\bin\Debug\net6.0\P06_SwitchCase.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\P06_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\P06_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\P06_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\P06_SwitchCase.AssemblyInfo.cs
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\P06_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\P06_SwitchCase.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\refint\P06_SwitchCase.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\P06_SwitchCase.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\P06_SwitchCase.genruntimeconfig.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P07_SwitchCase\obj\Debug\net6.0\ref\P06_SwitchCase.dll

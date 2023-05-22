@@ -1,0 +1,15 @@
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\bin\Debug\net6.0\P05_IfElse.exe
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\bin\Debug\net6.0\P05_IfElse.deps.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\bin\Debug\net6.0\P05_IfElse.runtimeconfig.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\bin\Debug\net6.0\P05_IfElse.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\bin\Debug\net6.0\P05_IfElse.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\P05_IfElse.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\P05_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\P05_IfElse.AssemblyInfoInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\P05_IfElse.AssemblyInfo.cs
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\P05_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\P05_IfElse.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\refint\P05_IfElse.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\P05_IfElse.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\P05_IfElse.genruntimeconfig.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P05_IfElse\obj\Debug\net6.0\ref\P05_IfElse.dll

@@ -1,0 +1,15 @@
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\bin\Debug\net6.0\P02_ColofulConsole.exe
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\bin\Debug\net6.0\P02_ColofulConsole.deps.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\bin\Debug\net6.0\P02_ColofulConsole.runtimeconfig.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\bin\Debug\net6.0\P02_ColofulConsole.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\bin\Debug\net6.0\P02_ColofulConsole.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\P02_ColofulConsole.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\P02_ColofulConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\P02_ColofulConsole.AssemblyInfoInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\P02_ColofulConsole.AssemblyInfo.cs
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\P02_ColofulConsole.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\P02_ColofulConsole.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\refint\P02_ColofulConsole.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\P02_ColofulConsole.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\P02_ColofulConsole.genruntimeconfig.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P02_ColofulConsole\obj\Debug\net6.0\ref\P02_ColofulConsole.dll

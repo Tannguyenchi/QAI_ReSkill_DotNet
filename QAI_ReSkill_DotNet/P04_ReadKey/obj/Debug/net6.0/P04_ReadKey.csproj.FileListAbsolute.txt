@@ -1,0 +1,15 @@
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\bin\Debug\net6.0\P04_ReadKey.exe
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\bin\Debug\net6.0\P04_ReadKey.deps.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\bin\Debug\net6.0\P04_ReadKey.runtimeconfig.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\bin\Debug\net6.0\P04_ReadKey.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\bin\Debug\net6.0\P04_ReadKey.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\P04_ReadKey.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\P04_ReadKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\P04_ReadKey.AssemblyInfoInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\P04_ReadKey.AssemblyInfo.cs
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\P04_ReadKey.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\P04_ReadKey.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\refint\P04_ReadKey.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\P04_ReadKey.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\P04_ReadKey.genruntimeconfig.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P04_ReadKey\obj\Debug\net6.0\ref\P04_ReadKey.dll

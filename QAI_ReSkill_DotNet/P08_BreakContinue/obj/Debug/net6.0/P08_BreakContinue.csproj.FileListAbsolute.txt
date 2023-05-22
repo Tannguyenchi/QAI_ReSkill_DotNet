@@ -1,0 +1,15 @@
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\bin\Debug\net6.0\P08_BreakContinue.exe
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\bin\Debug\net6.0\P08_BreakContinue.deps.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\bin\Debug\net6.0\P08_BreakContinue.runtimeconfig.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\bin\Debug\net6.0\P08_BreakContinue.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\bin\Debug\net6.0\P08_BreakContinue.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\P08_BreakContinue.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\P08_BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\P08_BreakContinue.AssemblyInfoInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\P08_BreakContinue.AssemblyInfo.cs
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\P08_BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\P08_BreakContinue.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\refint\P08_BreakContinue.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\P08_BreakContinue.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\P08_BreakContinue.genruntimeconfig.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P08_BreakContinue\obj\Debug\net6.0\ref\P08_BreakContinue.dll

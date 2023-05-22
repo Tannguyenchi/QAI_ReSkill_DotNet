@@ -1,0 +1,15 @@
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\bin\Debug\net6.0\P03_ReadLine.exe
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\bin\Debug\net6.0\P03_ReadLine.deps.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\bin\Debug\net6.0\P03_ReadLine.runtimeconfig.json
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\bin\Debug\net6.0\P03_ReadLine.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\bin\Debug\net6.0\P03_ReadLine.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\P03_ReadLine.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\P03_ReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\P03_ReadLine.AssemblyInfoInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\P03_ReadLine.AssemblyInfo.cs
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\P03_ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\P03_ReadLine.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\refint\P03_ReadLine.dll
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\P03_ReadLine.pdb
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\P03_ReadLine.genruntimeconfig.cache
+C:\Users\FPT SHOP\Documents\GitHub\QAI_ReSkill_DotNet\QAI_ReSkill_DotNet\P03_ReadLine\obj\Debug\net6.0\ref\P03_ReadLine.dll
